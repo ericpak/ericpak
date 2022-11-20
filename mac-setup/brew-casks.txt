@@ -1,6 +1,0 @@
-iterm2
-raycast
-rectangle
-alt-tab
-discord
-visual-studio-code
